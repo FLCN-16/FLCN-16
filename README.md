@@ -21,16 +21,12 @@
 
 ## **About \/\/**
 
----
-
 I'm Rishabh, Born in 1990's in India, Now a Fullstack Web Developer
 
 - Working as Fullstack Web Developer
 - More then 6 years in Programming
 
 ## **Skills \/\/**
-
----
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -50,14 +46,10 @@ I'm Rishabh, Born in 1990's in India, Now a Fullstack Web Developer
 
 ## **Tools  \/\/**
 
----
-
 ![VS Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
 
 ## **Intrests \/\/**
-
----
 
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
