@@ -2,21 +2,63 @@
   <img src="./images/logo.svg" height="150" alt="The Falcon (FLCN16)" />
 </p>
 
-<center>
+<span align="center">
 
 ## **THE FALCON**
 
-</center>
+#### *Welcome to the World of Evil*
 
-<span align="center">
+---
 
 [![Twitter FLCN-16](https://img.shields.io/badge/flcn__16-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/flcn_16)
 [![Twitter FLCN-16](https://img.shields.io/badge/Rishabh%20R.-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flcn16/)
 [![GitHub FLCN-16](https://img.shields.io/badge/FLCN--16-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FLCN-16)
 [![GitHub FLCN-16](https://img.shields.io/badge/flcn16-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://github.com/FLCN-16)
 
+---
+
 </span>
+
+## **About \/\/**
 
 ---
 
-### Something About Me \/\/ 
+I'm Rishabh, Born in 1990's in India, Now a Fullstack Web Developer
+
+- Working as Fullstack Web Developer
+- More then 6 years in Programming
+
+## **Skills \/\/**
+
+---
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Jquery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Next JS](https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+
+## **Tools  \/\/**
+
+---
+
+![VS Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
+
+## **Intrests \/\/**
+
+---
+
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
