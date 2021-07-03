@@ -1,8 +1,8 @@
-<section align="center">
+<p align="center">
   <img src="./images/logo.svg" height="150" alt="The Falcon (FLCN16)" />
-</section>
+</p>
 
-# <center>**THE FALCON**</center>
+## <center>**THE FALCON**</center>
 
 <p align="center">
 
@@ -15,4 +15,4 @@
 
 ---
 
-### Something About Me
+### Something About Me \/\/ 
