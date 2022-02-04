@@ -24,7 +24,7 @@
 I'm Rishabh, Born in 1990's in India, Now a Fullstack Web Developer
 
 - Working as Fullstack Web Developer
-- More then 6 years in Programming
+- More than 6 years in Programming
 
 ## **Skills \/\/**
 
