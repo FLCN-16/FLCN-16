@@ -6,8 +6,6 @@
 
 ## **THE FALCON**
 
-#### *Welcome to the World of Evil*
-
 ---
 
 [![Twitter FLCN-16](https://img.shields.io/badge/flcn__16-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/flcn_16)
