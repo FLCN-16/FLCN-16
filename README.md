@@ -19,7 +19,7 @@
 
 ## **About \/\/**
 
-I'm Rishabh, Born in 1990's in India, Now a Fullstack Web Developer
+I'm Rishabh, Born in 1990's in India, Now working as Technical Lead
 
 - Working as Fullstack Web Developer
 - More than 6 years in Programming
