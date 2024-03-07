@@ -24,6 +24,11 @@ I'm Rishabh, Born in 1990's in India, Now working as Technical Lead
 - Working as Fullstack Web Developer
 - More than 6 years in Programming
 
+## **Profile Stats \/\/**
+![GitHub Streak](https://streak-stats.demolab.com?user=FLCN-16&theme=dark&hide_border=false)
+---
+![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=FLCN-16&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ## **Skills \/\/**
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
